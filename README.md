@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abdullahridwan
 - 👀 I’m interested in swe, ai and medicine!
 - 🌱 I’m currently learning competitive programming, ai/ml, and iOS development (check out my repos🙂)!
-- Check out my site 👉 https://ridwan.blog.notaku.site
+- Check out my site 👉 abdullahridwan.info
 
 
